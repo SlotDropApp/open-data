@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "SlotDrop open data: expected value of every blackjack hand and move"
+abstract: "Expected value of hit, stand, double and split for all 340 blackjack player hand and dealer upcard combinations, with the best move, the second-best move and the cost of the mistake."
+authors:
+  - name: "SlotDrop"
+    website: "https://slotdropapp.com"
+license: CC-BY-4.0
+url: "https://slotdropapp.com/blackjack-charts.html"
+date-released: "2026-11-10"
+keywords:
+  - blackjack
+  - expected value
+  - basic strategy
+  - probability
+  - gambling
